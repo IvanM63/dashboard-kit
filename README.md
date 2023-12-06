@@ -1,13 +1,13 @@
 # Dashboard Kit
-Simple dashboard for managing something
+Simple dashboard for managing Tickets
 
 ## Login User
-Dapat menggunakan email apa saja selama memenuhi kriteria penulisan email
-Dapat menggunakan password apa saja selama memiliki minimum delapan karakter
+- Dapat menggunakan email apa saja selama memenuhi kriteria penulisan email.
+- Dapat menggunakan password apa saja selama memiliki minimum delapan karakter.
 
 contoh:
-email    : ivan@gmail.com
-password : ivan12345
+- email    : ivan@gmail.com
+- password : ivan12345
 
 ## Version
 - React js version : v18.2.0
