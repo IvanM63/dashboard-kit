@@ -16,4 +16,4 @@ contoh:
 ## How to start project using npm
 1. Masuk ke direktori project
 2. Ketik di terminal "npm install react-scripts@latest"
-3. Jalankan aplikasi dengan mengetik "npm start di terminal"
+3. Jalankan aplikasi dengan mengetik "npm start" di terminal
